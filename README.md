@@ -15,7 +15,7 @@ public class CoffeeShop {
     private String[] orders;
 
 
-This line defines a class called CoffeeShop with three private instance variables: `name`, which is a `String` representing the name of the coffee shop; `menu`, which is an array of `MenuItem` objects representing the menu items available at the coffee shop; and `orders`, which is an array of `String` objects representing the current orders placed at the coffee shop.
+This line defines a class called 'CoffeeShop' with three private instance variables: `name`, which is a `String` representing the name of the coffee shop; `menu`, which is an array of `MenuItem` objects representing the menu items available at the coffee shop; and `orders`, which is an array of `String` objects representing the current orders placed at the coffee shop.
 
 
 public CoffeeShop(String name, MenuItem[] menu) {
